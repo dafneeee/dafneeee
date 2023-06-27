@@ -22,8 +22,6 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=java&link=https://github.com/dafneeee)](https://github.com/dafneeee)
 [![C++](https://img.shields.io/badge/C-00599C?style=flat&logo=java&link=https://github.com/dafneeee)](https://github.com/dafneeee)
 
-<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafneeee&show_icons=true&locale=en&layout=compact" alt="dafneeee" /></p>
 
 
